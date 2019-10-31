@@ -1,6 +1,5 @@
 # Printable artwork suitable for Lennon Walls
 <a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="98"></a>
-<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/很棒-中国.png" width="66"></a>
 
 The original Lennon Wall was first created in Prague, Czech Republic, following the assassination of John Lennon. Lennon Wall (連儂牆), in the Hong Kong context, originally referred to the mosaic wall created during the Umbrella Movement, located at Central Government Complex, Harcourt Road, Admiralty. The wall is one of the major artworks of the Umbrella Movement as a collective artistic work of spontaneous free expression, demanding democracy in the elections of the territory's top leaders.
 
