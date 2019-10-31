@@ -1,8 +1,15 @@
 # Printable artwork suitable for Lennon Walls
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/awesome-china.png" width="98"></a>
+<a href="https://github.com/taibangle/awesome-china"><img src="https://raw.githubusercontent.com/taibangle/awesome-china/master/badges/很棒-中国.png" width="66"></a>
 
-One of the best ways to help is to spread awareness about the Hong Kong protests, the Xinjiang concentration camps, and everyone else oppressed by the CCP, as well as western companies choosing money over human rights. A great way to do that is to put up Lennon Walls all over the world, including China.
+The original Lennon Wall was first created in Prague, Czech Republic, following the assassination of John Lennon. Lennon Wall (連儂牆), in the Hong Kong context, originally referred to the mosaic wall created during the Umbrella Movement, located at Central Government Complex, Harcourt Road, Admiralty. The wall is one of the major artworks of the Umbrella Movement as a collective artistic work of spontaneous free expression, demanding democracy in the elections of the territory's top leaders.
 
-This article contain over a hundred pictures suitable for Lennon Walls. You can also write supportive messages and slogans on post-it notes, such as:
+During the [2019 Hong Kong protests](https://github.com/taibangle/awesome-china/blob/master/hongkong/2019-hong-kong-protests.md), new Lennon Walls appeared in numerous locations across the territory, typically near transport interchanges.
+
+You can help the Hong Kong protestors, as well as the Uyghurs, Tibetan people, and others repressed by the CCP, by putting up Lennon Walls all over the world. If you are in China then it would also be a good idea to write the name of this repo: https://github.com/taibangle/awesome-china because GitHub is not blocked in China. This means that if the Chinese people know about the URL, then they will be able to inform themselves about all the issues raised in this repo.
+
+
+This repo contain over a hundred pictures suitable for Lennon Walls ([click here to download them all](https://github.com/taibangle/lennon-wall/archive/master.zip)). You can also write supportive messages and slogans on post-it notes, such as:
 
 - Be Water, My Friend
 - Liberate Hong Kong
@@ -26,8 +33,6 @@ This article contain over a hundred pictures suitable for Lennon Walls. You can 
 - I <3 Tibet
 - Fight Chinazi
 - Fight for Freedom. Stand with Hong Kong
-
-There are of course many more slogans and issues that can be brought up. If you are in China then it would also be a good idea to write the name of this repo: https://github.com/taibangle/awesome-china because GitHub is not blocked in China. This means that if the Chinese people know about the URL, then they will be able to inform themselves about all the issues raised in this repo.
 
 
 ![04255d67f3e5e9029e05513bcfc41b11](https://raw.githubusercontent.com/taibangle/lennon-wall/master/images/04255d67f3e5e9029e05513bcfc41b11.jpg)
