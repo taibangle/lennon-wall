@@ -5,7 +5,9 @@ The original Lennon Wall was first created in Prague, Czech Republic, following 
 
 ![Lennon Wall in Hong Kong](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/images/lennon-wall.jpg)
 
-During the [2019 Hong Kong protests](https://github.com/taibangle/awesome-china/blob/master/hongkong/2019-hong-kong-protests.md), new Lennon Walls appeared in numerous locations across the territory, typically near transport interchanges.
+During the [2019 Hong Kong protests](https://github.com/taibangle/awesome-china/blob/master/hongkong/2019-hong-kong-protests.md), new Lennon Walls appeared in numerous locations across the territory, typically near transport interchanges. These lennon walls are usually torn down (by the Chinese) and recreated on a daily basis.
+
+![Lennon Wall in Hong Kong](https://raw.githubusercontent.com/taibangle/awesome-china-media/master/hongkong/videos/lennon-wall.gif)
 
 You can help the Hong Kong protestors, as well as the Uyghurs, Tibetan people, and others repressed by the CCP, by putting up Lennon Walls all over the world. If you are in China then it would also be a good idea to write the name of this repo: https://github.com/taibangle/awesome-china because GitHub is not blocked in China. This means that if the Chinese people know about the URL, then they will be able to inform themselves about all the issues raised in this repo.
 
